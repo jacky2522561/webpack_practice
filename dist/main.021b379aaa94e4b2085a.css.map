@@ -1,0 +1,1 @@
+{"version":3,"file":"main.021b379aaa94e4b2085a.css","mappings":";;;AAAA;IACI,YAAY;IACZ,aAAa;IACb,0DAAmC;AACvC,C","sources":["webpack://webpack/./src/index.css"],"sourcesContent":["div{\r\n    width: 100px;\r\n    height: 100px;\r\n    background-image: url('./OIP.jpg') ;\r\n}"],"names":[],"sourceRoot":""}
